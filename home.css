@@ -1,0 +1,129 @@
+.rodape{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(214, 192, 91);
+}
+
+.rodape img{
+    width: 110px;
+    height: 100px;
+    align-items: center;
+    margin-left: 7px;
+    padding-left: 15px;
+    float: left;
+   
+}
+
+.txr{
+    display: flex;
+    flex-direction: column;
+    margin-right: 28%;
+    margin-top: -85px;
+}
+
+.txr h1{
+    font-size: 40px;
+    font-family: serif;
+}
+
+.txr h2{
+    font-size: 15px;
+    margin-top: -25px;
+    padding-left: 30px ;
+    font-family: serif;
+}
+
+.acesso{
+    display: flex;
+    margin-left: 60%;
+    
+    
+}
+
+.acesso h1{
+   font-size: 23px;
+   color: aliceblue;
+   margin-top: 35px;
+   padding-left: 15px;
+}
+
+.acesso h2{
+
+    font-size: 23px;
+    color: rgb(0, 0, 0);
+    margin-top: 35px;
+    padding-left: 15px;
+
+}
+
+
+.home{
+    width: 100%;
+    height: 750px;
+    background-image: url(pessoass.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 150px;
+}
+
+.home h1{
+    margin-left: 80px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: serif;
+}
+
+.quem{
+    width: 100%;
+    height: 940px;
+    background-color: rgb(214, 192, 91);
+    display: flex;
+}
+
+.txq h1{
+    font-size: 50px;
+    font-family: fantasy;
+    margin-left: 70px;
+    margin-top: 10%;
+}
+
+.txq h2{
+    width: 650px; /* Largura da coluna lateral */
+    float: left; /* Flutua o elemento à esquerda */
+    margin-left: 70px; /* Espaçamento à direita para separar outras partes do layout */
+    margin-top: -15px;
+    text-align: justify;
+    font-family: serif;
+    color: rgb(32, 29, 29);
+    font-size: 28px;
+}
+
+.card{
+    width: 40%;
+    height: 28%;
+    background-color: rgb(112, 109, 109);
+    margin-top: 4%;
+    margin-left: 10%;
+    border-radius: 20px
+}
+
+.card h1{
+    font-size: 37px;
+    padding-left: 20px;
+}
+
+.card h2{
+    font-size: 26px;
+    padding-left: 20px;
+    margin-top: -15px;
+    text-align: justify;
+    color: rgb(32, 29, 29);
+}
+
+.linha{
+    width: 10%;
+    height: 1%;
+    background-color: black;
+    margin-top: 30%;
+    margin-right: 30px;
+}
